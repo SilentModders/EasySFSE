@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasySFSE", "EasySFSE\EasySFSE.vcxproj", "{3AF3DBEF-4F7E-4218-A668-047CC6CD6B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF3DBEF-4F7E-4218-A668-047CC6CD6B88}.Debug|x64.ActiveCfg = Debug|x64
+		{3AF3DBEF-4F7E-4218-A668-047CC6CD6B88}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6FEAF7-E282-4A1D-B3A8-D6B1FDC8FE12}
+	EndGlobalSection
+EndGlobal

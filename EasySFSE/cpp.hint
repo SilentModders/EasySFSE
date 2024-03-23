@@ -1,0 +1,2 @@
+#define EASYSFSE_API __declspec(dllexport)
+#define EASYSFSE_API __declspec(dllimport)
